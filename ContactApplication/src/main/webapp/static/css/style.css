@@ -1,0 +1,55 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	font-family: Arial,Helvetica,Geneva,sans-serif;
+	font-size: 18px;
+	color:window;
+color: 
+}
+
+.error{
+	color: #FF0000;
+}
+
+.success{
+	color: #80ff00;
+}
+
+textarea {
+  width: 300px;
+  height: 80px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+   border-radius: 6px;
+  border: 0.1px;
+
+ 
+}
+
+hr{
+	color: red;
+	/* transform:rotate(0.1deg); */
+}
+
+button{
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 10px 22px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+ 
+}
+
+.scpic{
+  width: 50px;
+}
+
+#contantArea{
+}
