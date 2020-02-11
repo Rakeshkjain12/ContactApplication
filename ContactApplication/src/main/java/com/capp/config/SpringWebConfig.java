@@ -83,8 +83,8 @@ public class SpringWebConfig extends WebMvcConfigurerAdapter {
 
 		mailSender.setHost("smtp.gmail.com");
 		mailSender.setPort(587);
-		mailSender.setUsername("rakeshproject123@gmail.com");
-		mailSender.setPassword("7354717670");
+		mailSender.setUsername("email@gmail.com");
+		mailSender.setPassword("password");
 
 		Properties javaMailProperties = new Properties();
 		javaMailProperties.put("mail.smtp.starttls.enable", "true");
